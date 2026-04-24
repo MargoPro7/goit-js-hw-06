@@ -1,3 +1,3 @@
-# goit-js-hw-05
+# goit-js-hw-06
 
-Fifth project js
+Sixth project js
